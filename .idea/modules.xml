@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/backend-application/backend-application.iml" filepath="$PROJECT_DIR$/backend-application/backend-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend-application.iml" filepath="$PROJECT_DIR$/frontend-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/securecapita-frontend-backend.iml" filepath="$PROJECT_DIR$/securecapita-frontend-backend.iml" />
     </modules>
   </component>
