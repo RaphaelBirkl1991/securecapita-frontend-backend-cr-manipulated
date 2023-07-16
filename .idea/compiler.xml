@@ -7,11 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="securecapita-frontend-backend" />
         <module name="backend-application" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="backend-application" target="17" />
+      <module name="securecapita-frontend-backend" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
